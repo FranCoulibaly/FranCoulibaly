@@ -1,4 +1,5 @@
-### Hi there 👋
+### Kia Ora! 👋
+I am Fran, a 🥝 living in 🇳🇱
 
 <!--
 **FranCoulibaly/FranCoulibaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🖥 I am a Frontend Developer, working mainly with React.
+🌱 I am currently learning Python and absolutely loving it.
+🧶 If I'm not programming, you'll find me knitting. 
+
