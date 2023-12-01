@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 -->
 
 🖥 I am a Frontend Developer, working mainly with React.
+
 🌱 I am currently learning Python and absolutely loving it.
+
 🧶 If I'm not programming, you'll find me knitting. 
 
